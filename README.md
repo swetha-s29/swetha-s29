@@ -1,6 +1,6 @@
 <!-- ================= HERO SECTION ================= -->
 <h1 align="center" style="font-weight: 800; letter-spacing: 1.2px;">
-  Swetha S
+  Swetha S 🪐
 </h1>
 
 <p align="center" style="font-size: 1.05rem; color: #6b7280;">
