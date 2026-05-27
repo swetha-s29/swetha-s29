@@ -3,14 +3,14 @@
 <h1 align="center">
 
 <img 
-src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=38&duration=4000&pause=1000&color=7AA2FF&center=true&vCenter=true&repeat=true&width=500&height=70&lines=Swetha+S"
-alt="Typing Name Animation"
+src="https://readme-typing-svg.demolab.com?font=Pacifico&size=48&pause=1000&color=FFB347&center=true&vCenter=true&width=600&height=100&duration=1500&lines=Swetha+S"
+alt="Swetha S Typing Animation"
 />
 
 </h1>
 
 <p align="center">
-  🪐 AI & Machine Learning Engineer • Exploring Intelligent Systems
+  AI & Machine Learning Engineer • Exploring Intelligent Systems
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@ My primary interests revolve around Artificial Intelligence, Machine Learning, C
 </p>
 
 <p>
-I prefer learning through implementation — experimenting with ideas, studying system behavior, and building practical understanding through continuous exploration and hands-on development.
+I prefer learning through implementation experimenting with ideas, studying system behavior, and building practical understanding through continuous exploration and hands-on development.
 </p>
 
 <p>
@@ -127,24 +127,6 @@ Currently, I’m strengthening my skills in Machine Learning workflows, AI engin
     <img src="https://img.icons8.com/color/32/google-logo.png"/>
     <strong> Introduction to Generative AI</strong>
   </a>
-</p>
-
----
-
-<!-- ================= GITHUB STATS ================= -->
-
-<h2>GitHub Analytics</h2>
-
-<p align="center">
-  <img 
-    height="170" 
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"
-  />
-
-  <img 
-    height="170" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"
-  />
 </p>
 
 ---
