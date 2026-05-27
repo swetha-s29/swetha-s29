@@ -3,7 +3,7 @@
 <h1 align="center">
 
 <img 
-src="https://readme-typing-svg.demolab.com?font=Pacifico&size=48&pause=1000&color=FFB347&center=true&vCenter=true&width=600&height=100&duration=1500&lines=Swetha+S"
+src="https://readme-typing-svg.demolab.com?font=Pacifico&size=48&pause=1000&color=FFB347&center=true&vCenter=true&width=600&height=70&duration=1500&lines=Swetha+S"
 alt="Swetha S Typing Animation"
 />
 
