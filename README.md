@@ -1,14 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2EA043&height=200&section=header&text=SWETHA%20SENTHILKUMAR&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Data%20Science%20%7C%20Computer%20Vision%20%7C%20GenAI&descAlignY=55&descSize=18" alt="header banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,100:8B2252&height=200&section=header" alt="header banner" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=2EA043&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Undergrad;Computer+Vision+%7C+ML+%7C+Generative+AI;Building+real+pipelines%2C+not+just+notebooks" alt="Typing SVG" />
+<img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="380">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=B83280&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Undergrad;Computer+Vision+%7C+ML+%7C+Generative+AI;Building+real+pipelines%2C+not+just+notebooks" alt="Typing SVG" />
 
 </div>
 
 <br>
 
-### 👋 Hi, I'm Swetha
+## 👋 Hi, I'm Swetha
+*learning how machines learn*
 
 AI & Data Science undergrad (2027) building end-to-end ML systems — from real-time object detection pipelines to LLM-powered tools. I care about whether something actually runs in production, not whether it works once in a notebook.
 
