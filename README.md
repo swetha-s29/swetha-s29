@@ -1,162 +1,87 @@
-<!-- ================= HERO SECTION ================= -->
+<div align="center">
 
-<h1 align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=2EA043&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Undergrad;Computer+Vision+%7C+ML+%7C+Generative+AI;Building+real+pipelines%2C+not+just+notebooks" alt="Typing SVG" />
 
-<img 
-src="https://readme-typing-svg.demolab.com?font=Pacifico&size=48&pause=1000&color=FFB347&center=true&vCenter=true&width=600&height=70&duration=1500&lines=Swetha+S"
-alt="Swetha S Typing Animation"
-/>
-
-</h1>
-
-<p align="center">
-  AI & Machine Learning Engineer • Exploring Intelligent Systems
-</p>
-
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=3000&pause=1000&color=5B8CFF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence;Machine+Learning;Computer+Vision;Generative+AI+Explorer;Building+Through+Curiosity+%26+Experimentation"
-    alt="Typing SVG"
-  />
-</p>
-
-<hr/>
-<!-- ================= ABOUT ME ================= -->
-
-<h2>About Me</h2>
-
-<p>
-I’m focused on understanding how intelligent systems work internally and how they can be transformed into meaningful real-world applications.
-My primary interests revolve around Artificial Intelligence, Machine Learning, Computer Vision, and Generative AI.
-</p>
-
-<p>
-I prefer learning through implementation experimenting with ideas, studying system behavior, and building practical understanding through continuous exploration and hands-on development.
-</p>
-
-<p>
-Currently, I’m strengthening my skills in Machine Learning workflows, AI engineering concepts, and intelligent application development while continuously exploring modern AI technologies.
-</p>
-
----
-
-<!-- ================= SKILLS & TOOLS ================= -->
-
-<h2>Skills & Tools</h2>
-
-<!-- ===== LANGUAGES ===== -->
-
-<h3>Languages</h3>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,html,css,javascript" />
-</p>
+</div>
 
 <br>
 
-<!-- ===== AI / ML ===== -->
+### Hi, I'm Swetha 👋
 
-<h3>AI / ML</h3>
+AI & Data Science undergrad (2027) building end-to-end ML systems — from real-time object detection pipelines to LLM-powered tools. I care about whether something actually runs in production, not whether it works once in a notebook.
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-  
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-  
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-</p>
+- 🔬 Currently building **DataForge** — an ML dataset cleaning & preprocessing tool (Phase 1, in progress)
+- 🛰️ Shipped real-time CV pipelines (YOLOv8 + TensorFlow) as an AI/ML Intern at Nandha Infotech
+- 🧠 Comfortable across the stack: dataset curation → model training → deployment-ready inference
+- 📫 Reach me: [LinkedIn](https://linkedin.com/in/swethasenthilkumar29) · swethas29sw@gmail.com
 
 <br>
 
-<!-- ===== TOOLS & PLATFORMS ===== -->
+### 🛠️ Tech Stack
 
-<h3>Tools & Platforms</h3>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+**Generative AI:** Gemini API · Prompt Engineering · LLM Integration
+**CV tooling:** YOLOv8 · Roboflow · Pillow · imagehash
 
+<br>
 
-<!-- ================= CURRENTLY EXPLORING ================= -->
+### 📌 Featured Projects
 
-<h2>Currently Exploring</h2>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<ul>
-  <li>Agentic AI systems and intelligent workflows</li>
-  <li>Computer Vision–based applications</li>
-  <li>Generative AI concepts and implementations</li>
-  <li>Machine Learning model development</li>
-  <li>AI engineering and problem-solving workflows</li>
-</ul>
+**🗑️ [SenseSort](https://github.com/swetha-s29/sensesort)**
+AI-based smart waste segregation & civic reporting system. YOLOv8 classification with confidence-threshold-aware decision logic for deployment-ready performance.
+`Python` `YOLOv8` `Flask` `React.js` `OpenCV`
 
----
+</td>
+<td width="50%" valign="top">
 
-<!-- ================= CERTIFICATIONS ================= -->
+**🧹 [DataForge](https://github.com/swetha-s29/dataforge)** — *in progress*
+Automated ML dataset preparation tool: duplicate detection, folder-structure validation, class-imbalance analysis, and clean train/val/test split generation with audit reports.
+`Python` `Streamlit` `Pandas` `OpenCV` `imagehash`
 
-<h2>Certifications</h2>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<p>
-  <a href="https://courses.skillsbuild.skillsnetwork.site/certificates/feb67bd35cdf45a6b534e5ff3d934dc9" target="_blank">
-    <img src="https://img.icons8.com/color/32/ibm.png"/>
-    <strong> Machine Learning with Python</strong>
-  </a>
-</p>
+**⏳ [TimeLoom](https://github.com/swetha-s29/timeloom)**
+AI-powered productivity & planning platform. Custom prompt engineering on the Gemini API for context-aware task management and recommendations.
+`Python` `Gemini API` `Streamlit`
 
-<p>
-  <a href="https://www.credly.com/badges/fbfd5e44-3441-4ff5-8239-82b6fd69b21f/linked_in_profile" target="_blank">
-    <img src="https://img.icons8.com/color/32/microsoft.png"/>
-    <strong> Azure Data Fundamentals</strong>
-  </a>
-</p>
+</td>
+<td width="50%" valign="top">
 
-<p>
-  <a href="https://www.credly.com/badges/03565617-25dc-49df-867e-a4c6b20351cc/linked_in_profile" target="_blank">
-    <img src="https://img.icons8.com/color/32/microsoft.png"/>
-    <strong> Azure AI Fundamentals</strong>
-  </a>
-</p>
+**🏆 Achievements**
+Runner-up, Ideathon @ NIT Trichy · Solo organizer, Inter-College Ideathon (90 participants, 20 institutions)
+`Databricks GenAI` `Azure AZ-900` `IBM ML w/ Python`
 
-<p>
-  <a href="https://www.cloudskillsboost.google/public_profiles/d3657d2f-90d4-4c54-a765-22332ff56e3a/badges/15514980" target="_blank">
-    <img src="https://img.icons8.com/color/32/google-logo.png"/>
-    <strong> Introduction to Generative AI</strong>
-  </a>
-</p>
+</td>
+</tr>
+</table>
 
----
+<br>
 
-<!-- ================= BEYOND TECH ================= -->
+### 📊 GitHub Stats
 
-<h2>Beyond Tech</h2>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=swetha-s29&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swetha-s29&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" width="48%" />
+</div>
 
-<ul>
-  <li>🎨 Drawing and digital creativity</li>
-  <li>🧘 Yoga and mindfulness practices</li>
-  <li>🎧 Music for focus and deep work</li>
-  <li>🌅 Enjoy observing nature and sunsets</li>
-</ul>
+<br>
 
----
-<!-- ================= CONNECT ================= -->
-
-<h2 align="center">Connect with Me</h2>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/swetha-swe/" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png" width="48"/>
-  </a>
-  
-  <a href="https://leetcode.com/u/swetha_s_sw/" target="_blank">
-    <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="48"/>
-  </a>
-  
-  <a href="mailto:swethas29sw@gmail.com">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" width="48"/>
-  </a>
-</p>
+<div align="center">
+<sub>Open to AI/ML, Computer Vision, and Generative AI internship & entry-level roles.</sub>
+</div>
