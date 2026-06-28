@@ -4,19 +4,19 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="380">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=B83280&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Undergrad;Computer+Vision+%7C+ML+%7C+Generative+AI;Building+real+pipelines%2C+not+just+notebooks" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=B83280&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science;Computer+Vision+%7C+ML+%7C+Generative+AI;BBuilding+real+pipelines%2C+not+just+notebooks" alt="Typing SVG" />
+
+# 👋🏼HI, I'm Swetha!
+### Learning how Machines learn
 
 </div>
 
 <br>
 
-## 👋 Hi, I'm Swetha
-*learning how machines learn*
+AI & Data Science undergrad building end-to-end ML systems - from real-time object detection pipelines to LLM-powered tools. I care about whether something actually runs in production, not whether it works once in a notebook.
 
-AI & Data Science undergrad (2027) building end-to-end ML systems — from real-time object detection pipelines to LLM-powered tools. I care about whether something actually runs in production, not whether it works once in a notebook.
-
-- 🔬 Currently building **DataForge** — an ML dataset cleaning & preprocessing tool (Phase 1, in progress)
-- 🛰️ Shipped real-time CV pipelines (YOLOv8 + TensorFlow) as an AI/ML Intern at Nandha Infotech
+- 🔬 Currently building **DataForge** - an ML dataset cleaning & preprocessing tool
+- 🛰️ Shipped real-time CV pipelines (YOLOv8 + TensorFlow) 
 - 🧠 Comfortable across the stack: dataset curation → model training → deployment-ready inference
 - 📫 Reach me: [LinkedIn](https://linkedin.com/in/swethasenthilkumar29) · swethas29sw@gmail.com
 
