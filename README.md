@@ -7,7 +7,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=B83280&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science;Computer+Vision+%7C+ML+%7C+Generative+AI;BBuilding+real+pipelines%2C+not+just+notebooks" alt="Typing SVG" />
 
 # 👋🏼HI, I'm Swetha!
-### Learning how Machines learn
+### Learning how Machines learn.....
 
 </div>
 
