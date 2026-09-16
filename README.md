@@ -76,16 +76,6 @@ Runner-up, Ideathon @ NIT Trichy · Solo organizer, Inter-College Ideathon (90 p
 </tr>
 </table>
 
-<br>
-
-### 📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=swetha-s29&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swetha-s29&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" width="48%" />
-</div>
-
-<br>
 
 <div align="center">
 <sub>Open to AI/ML, Computer Vision, and Generative AI internship & entry-level roles.</sub>
